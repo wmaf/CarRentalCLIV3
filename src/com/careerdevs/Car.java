@@ -12,7 +12,7 @@ public class Car {
         this.carYear = carYear;
 
     }
-
+//  Getters and Setters to access the private properties of the Car class.
     public String getCarMake() {
         return carMake;
     }
